@@ -16,7 +16,11 @@ GIT logo by Jason Long http://git-scm.com/downloads/logos, license: [CC BY 3.0](
 3. [git init](./init.md)
 4. [git add](./add.md)
 5. [git commit](./commit.md)
-6. [git status](./status.md)
+6. [git push](./push.md)
+7. [git pull](./pull.md)
+8. [git status](./status.md)
+9. [git clone](./clone.md)
+10. [git branch](./branch.md)
 
 
 ---
