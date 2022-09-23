@@ -21,6 +21,11 @@ GIT logo by Jason Long http://git-scm.com/downloads/logos, license: [CC BY 3.0](
 8. [git status](./status.md)
 9. [git clone](./clone.md)
 10. [git branch](./branch.md)
+11. [git diff](./diff.md)
+12. [git reset](./reset.md)
+13. [git clean](./clean.md)
+
+
 
 
 ---
